@@ -255,7 +255,7 @@ section {
 }
 
 .carousel-item > img {
-    height: calc(100vh - 32px);
+    min-height: calc(100vh - 32px);
     object-fit: cover;
 }
 
