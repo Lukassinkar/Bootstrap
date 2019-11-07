@@ -976,7 +976,7 @@ li .team-content p {
 
 .of-left:before {
     position: absolute;
-    left: -8%;
+    left: -30px;
     top: 45%;
     content: "";
     width: 0;
@@ -988,7 +988,7 @@ li .team-content p {
 
 .of-right:before {
     position: absolute;
-    right: -8%;
+    right: -30px;
     top: 45%;
     content: "";
     z-index: 9;
